@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GovindaPd
-- 👀 I’m interested in web development, web scraaping, gis developer
-- 🌱 I’m currently learning Django, Arcgis
+- 👀 I’m interested in web development, web scraping, gis developer, python development.
+- 🌱 I’m currently learning Django, Arcgis,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
